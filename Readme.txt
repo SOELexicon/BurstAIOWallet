@@ -1,32 +1,14 @@
-Burst AIO Wallet Beta Release
-Latest Download:
+Burst ver 1.2.8
 
-Burst best wallet selection with various online wallets,
+Requirements:
+Java 8 compatible JVM
 
-Features;
-Embedded Chromium Browser.
-Multiple online wallets.
-List Of Faucets.
-Asset Explorer.
-Salted Password Manager.
-Network Observers
-Fastest Wallet Selection
+Setup:
+Before you do anything, sync your clock.  Burst uses your computer clock's time, and having the time off too much could cause you to reject legit blocks, or miss out on blocks you could have mined. On linux "sudo ntpd -gq", on windows go to change date/time, and go to internet time and tell it to sync with a time server.
 
-Uses Api Calls to each wallet. times the time it takes for each call and determines which is on the highest block to make its decision on the best wallet for that user at that specific time. added bonus to this is it self load balances.
-To Do.
-Add Mining and Plotting features
-Block Explorer
+Please open conf/nxt-default.properties in a text editor, and add your ip:8123 to the line nxt.myAddress=, so it looks like "nxt.myAddress=111.111.111.111:8123", and forward 8123 if behind a NAT. This is not required, but will help the network by reducing the load on other nodes.
 
+Usage:
+Run run.sh or run.bat to start the server. The interface is accessed through a web browser on port 8125. ex: http://127.0.0.1:8125 or http://localhost:8125
 
-to note when the wallet starts and loads the local wallet. you should copy the database from your %appdata%/burstwallet directory to the db directory in the release folder
-to save having to redownload the entire database again
-
-
-Password Manager
-the password manager works by encrypting your passphrase with AES Encryption that's generated from a code that the user can specify.
-
-
-if the user loses this code it will be pretty much impossible to recover your account passphrase.
-
-
-
+Pick a long passphrase, as it is the only thing needed to access your account.

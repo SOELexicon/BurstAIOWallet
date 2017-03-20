@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="BurstAIOWallet.exe" version="1.0.0.16" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
+  <asmv1:assemblyIdentity name="BurstAIOWallet.exe" version="1.0.0.16" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="BurstAIOWallet.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -53,50 +53,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="109056">
-      <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="115712">
+      <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>N7cqM1kZuiCFYGYCI7ss4rFyqblxvsXZH7J9YW2bOIk=</dsig:DigestValue>
+        <dsig:DigestValue>qRQY2od8l/JBdzeyO8zfrV+/vodENEm6Pk9kUsaTQlA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.dll" size="178176">
-      <assemblyIdentity name="CefSharp" version="55.0.0.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.dll" size="178688">
+      <assemblyIdentity name="CefSharp" version="55.0.0.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wu8wpoJLSOsUYYKL/1R7mzzfJUuWI/nZt8Hz8kJyHuc=</dsig:DigestValue>
+        <dsig:DigestValue>qahnpr1BV5z/TDaZL8HulvhEvuMb1t7otRWA4H0XRUY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.Core.dll" size="1674240">
-      <assemblyIdentity name="CefSharp.Core" version="55.0.0.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.Core.dll" size="1240576">
+      <assemblyIdentity name="CefSharp.Core" version="55.0.0.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mSBAHreatUkfSCvYc7/ZChq1Ifw1RXA1Kp8RvvyYkZE=</dsig:DigestValue>
+        <dsig:DigestValue>paRH0TrrMr5IxS/T+x+B2thGr81lOmk4FZ6qbSoCC4I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.WinForms.dll" size="21504">
-      <assemblyIdentity name="CefSharp.WinForms" version="55.0.0.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.WinForms.dll" size="22528">
+      <assemblyIdentity name="CefSharp.WinForms" version="55.0.0.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>piN1Qx87RGi+TSgKxIcCQ8rA7ZD+6c4pDQgvwuiTALw=</dsig:DigestValue>
+        <dsig:DigestValue>t8i1oB1JaWSj3jEhgY7ert/zMSnDq8jhezODu4n/Qfs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1186,13 +1186,13 @@
       <dsig:DigestValue>Wt4mzGCRGHXGRpjpXOIPfA7FVfzkYlrWxA4oCQ2zXLs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CefSharp.Core.pdb" size="6737920">
+  <file name="CefSharp.Core.pdb" size="6205440">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>abiliaVa4R+rhJOje5PBPtpvwj0h+RZSyj1PkQRNlaA=</dsig:DigestValue>
+      <dsig:DigestValue>jfqVZZtLtcx56wKx2Q6tRmu4XBzBVAYKDk15WsOdfks=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CefSharp.Core.xml" size="52566">
@@ -1201,7 +1201,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FWHUdltzIZ4Eyed9PcK+zMsbLd33Q0RHL67Jrj2nsEc=</dsig:DigestValue>
+      <dsig:DigestValue>hplIGzVoyF6GZuJn8Qt8lDw7MYzlRIFzvL5TZkQ6MXM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CefSharp.pdb" size="241152">
@@ -1210,7 +1210,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>zYO/qrXCfP47AMmR9oGAGXWkZUlnA5i8OhbYOqil388=</dsig:DigestValue>
+      <dsig:DigestValue>Eg//lIKon0UzuSmWKAjg/cP2n74wYoGyc/yTjdNZQPQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CefSharp.WinForms.pdb" size="34304">
@@ -1219,7 +1219,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7720J/KwLI6R78qcD6t6O9sX3ygZkjjBoKNn6zMPCCo=</dsig:DigestValue>
+      <dsig:DigestValue>X+NNQA9WdcQGt2mG/Sk74re4FA7MpE8D0Le5y9MRnwE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CefSharp.WinForms.xml" size="37766">
