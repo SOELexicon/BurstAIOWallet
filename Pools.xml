@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+<pool>
+  <address>burst.lexitoshi.uk</address>
+	<port>8124</port>
+ </pool>
+
+<pool>
+  <address>burst.ninja</address>
+	<port>80</port>
+ </pool>
+<pool>
+  <address>burstpool.ddns.net</address>
+	<port>8124</port>
+</pool>
+</NewDataSet>

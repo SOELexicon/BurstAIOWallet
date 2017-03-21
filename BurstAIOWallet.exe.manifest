@@ -53,14 +53,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="109056">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="117760">
       <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>N7cqM1kZuiCFYGYCI7ss4rFyqblxvsXZH7J9YW2bOIk=</dsig:DigestValue>
+        <dsig:DigestValue>UJDGb6EvyJExbKyHQlD8sBbDaeiRNJ5J93p96QOiJe4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2104,13 +2104,13 @@
       <dsig:DigestValue>KTHR+1HtSrSbrivc0ekPebcxBXfQypHS/v6BObjfxAY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="XMLFile1.xml" size="536">
+  <file name="XMLFile1.xml" size="576">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>05gk5DoYubK1Q8lxZCV9lFDlu9b7jqhL6JBuZ/H9V2w=</dsig:DigestValue>
+      <dsig:DigestValue>A/d5UElyBa70g6bxFzD39CBPeYJeDBUg01lTq4zo+5M=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
