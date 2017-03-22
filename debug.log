@@ -415,3 +415,23 @@
 [0319/190925:INFO:CONSOLE(8623)] "XMLHttpRequest cannot load http://wallet3.burstnation.com:8125/burst. Failed to start loading.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
 [0319/191642:INFO:CONSOLE(8623)] "Mixed Content: The page at 'https://wallet3.burstnation.com:8125/index.html' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://wallet3.burstnation.com:8125/burst'. This request has been blocked; the content must be served over HTTPS.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
 [0319/191642:INFO:CONSOLE(8623)] "XMLHttpRequest cannot load http://wallet3.burstnation.com:8125/burst. Failed to start loading.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
+[0319/211535:INFO:CONSOLE(8623)] "Mixed Content: The page at 'https://wallet3.burstnation.com:8125/index.html' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://wallet3.burstnation.com:8125/burst'. This request has been blocked; the content must be served over HTTPS.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
+[0319/211535:INFO:CONSOLE(8623)] "XMLHttpRequest cannot load http://wallet3.burstnation.com:8125/burst. Failed to start loading.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
+[0319/214646:INFO:CONSOLE(8623)] "Mixed Content: The page at 'https://wallet3.burstnation.com:8125/index.html' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://wallet3.burstnation.com:8125/burst'. This request has been blocked; the content must be served over HTTPS.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
+[0319/214646:INFO:CONSOLE(8623)] "XMLHttpRequest cannot load http://wallet3.burstnation.com:8125/burst. Failed to start loading.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8623)
+[0321/202038:INFO:CONSOLE(8554)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://wallet3.burstnation.com:8125/js/3rdparty/jquery.js (8554)
+[0321/214815:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214820:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214825:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214828:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214830:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214833:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214835:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214838:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214840:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214840:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214843:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214845:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0321/214845:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0322/002743:WARNING:backend_impl.cc(1802)] Destroying invalid entry.
+[0322/002843:WARNING:backend_impl.cc(1802)] Destroying invalid entry.
