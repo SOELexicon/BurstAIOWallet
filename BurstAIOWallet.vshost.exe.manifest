@@ -53,14 +53,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="139264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="151552">
       <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UgewwaU5uhe8bb/A0kMhTxVsn8PFpuUWreSYy27Hqds=</dsig:DigestValue>
+        <dsig:DigestValue>o8tOxD8+ya1Uuciu9akg0URI/6SrIJftEH+GZkFF4FM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1267,13 +1267,13 @@
       <dsig:DigestValue>na1vSuUDZvJeDrdAs3p+Nw4lL80Wo2cxDR0OaE7hirU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="html\ui\css\app.css" size="83907">
+  <file name="html\ui\css\app.css" size="83900">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TofAT8mT+CHBn5vdqi1ekhjEYcUzS8D6XuPs7sNK+og=</dsig:DigestValue>
+      <dsig:DigestValue>/gk7GygOu6R4sVQ9gXAh/h0w0YkFrfzWrP1zf+h03kU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="html\ui\css\bootstrap.min.css" size="109522">
