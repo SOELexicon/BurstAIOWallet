@@ -73,14 +73,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="193024">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="195584">
       <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kz6njdFiI0bnZIvpK2+CabGlJ9M8eHYej93V/pjz6bc=</dsig:DigestValue>
+        <dsig:DigestValue>u9QHcj0l8vTjBc5MmYS0TmWzGqb5bVPRy8hd4nXwPmU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1329,6 +1329,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>V14w+Y5OpCyeUW7ci7sprYtQsXOj5rNrW6OeEzzOlAY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Octokit.dll" size="684032">
+      <assemblyIdentity name="Octokit" version="0.24.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XDK4AsqOrJHUckge5Q5BpDl5PtsWhp7JWBzqcET/lK0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
