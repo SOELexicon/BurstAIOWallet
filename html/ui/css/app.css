@@ -19,8 +19,7 @@
     Core: General style
 ----------------------------
 */
-html,
-body {
+html, body {
   overflow-x:hidden;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -2114,7 +2113,6 @@ body > .header .logo .icon {
 /* ADD THIS CLASS TO THE <HTML> TAG */
 .lockscreen {
   background-color: #9DC7A9; /*WESLEY */
-  /* background: url(../img/Burst-2.jpg) repeat center center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2126,7 +2124,6 @@ body > .header .logo .icon {
   /* background: transparent; */
   min-height: 100% !important;
   overflow: hidden !important;
-  /* background: url(../img/Burst-2.jpg) repeat center center fixed; */
 }
 /* We will put the dynamically generated digital clock here */
 .lockscreen .headline {
