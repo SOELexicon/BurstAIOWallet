@@ -73,14 +73,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="202240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BurstAIOWallet.exe" size="231936">
       <assemblyIdentity name="BurstAIOWallet" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SiLr5q0WOlFnY425NaeO/Xt0zdCzAkl9+CEoCquWyzQ=</dsig:DigestValue>
+        <dsig:DigestValue>H+i6f6npOxORPhUZvzWlC74q6kp4I7NuNRMbRzacwEE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
