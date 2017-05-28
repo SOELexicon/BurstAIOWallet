@@ -65,9 +65,4 @@
     <port>8081</port>
     <reward>BURST-PHJ5-JMZP-3EQQ-EAA2B</reward>
   </pool>
-    <pool>
-    <address>pool.pingofburst.win</address>
-    <port>8124</port>
-    <reward>BURST-58L2-8NGW-96SN-CBFN5</reward>
-  </pool>
 </NewDataSet>
