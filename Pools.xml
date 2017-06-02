@@ -8,13 +8,18 @@
   <pool>
     <address>burst.ninja</address>
     <port>80</port>
-    <reward>BURST-7CPJ-BW8N-U4XF-CWW3U</reward>
-  </pool>
+    <reward>BURST-7NTY-Y2BH-2QZM-HKEH8</reward>
+ </pool>
+  <pool>
+    <address>poolofd32th.club</address>
+    <port>8124</port>
+    <reward>BURST-E925-FACX-C2X8-49772</reward>
+ </pool>
   <pool>
     <address>burstpool.ddns.net</address>
     <port>8124</port>
     <reward>BURST-JGBV-U7YK-SWHM-4P4QS</reward>
-  </pool>
+ </pool>
   <pool>
     <address>m.burst4all.com</address>
     <port>8124</port>
@@ -59,10 +64,5 @@
     <address>pool.burstcoin.party</address>
     <port>8081</port>
     <reward>BURST-PHJ5-JMZP-3EQQ-EAA2B</reward>
-  </pool>
-    <pool>
-    <address>pool.pingofburst.win</address>
-    <port>8124</port>
-    <reward>BURST-58L2-8NGW-96SN-CBFN5</reward>
   </pool>
 </NewDataSet>
