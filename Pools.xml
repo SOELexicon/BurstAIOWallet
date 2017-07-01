@@ -16,6 +16,11 @@
     <reward>BURST-E925-FACX-C2X8-49772</reward>
  </pool>
   <pool>
+    <address>all.poolofd32th.club</address>
+    <port>8124</port>
+    <reward>BURST-LBQ2-XLPT-S2S8-64ZG5</reward>
+ </pool>
+  <pool>
     <address>burstpool.ddns.net</address>
     <port>8124</port>
     <reward>BURST-JGBV-U7YK-SWHM-4P4QS</reward>
