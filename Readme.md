@@ -38,10 +38,15 @@ https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
 1) to start a local node open the conf folder and edit the nxt properties file:
 
 X.X.X.X is your host ip the node will be runing from
+
 nxt.myAddress=X.X.X.X
+
 nxt.allowedBotHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
+
 nxt.allowedUserHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
+
 2) if you want to set up an online wallet add *; to allowedBotHosts and allowedUserHosts fields
+
 3) if you just want to run a node and not the .exe just use the run.bat(Windows) or run.sh(Linux)
 
 # Burstcoin
