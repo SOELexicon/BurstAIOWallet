@@ -13,11 +13,11 @@
 
 ***NOTE: the password manager works by encrypting your passphrase with AES Encryption that's generated from a code that the user can specify. if the user loses this code it will be pretty much impossible to recover your account passphrase.
 
-Uses Api Calls to each wallet. times the time it takes for each call and determines which is on the highest block to make its decision on the best wallet for that user at that specific time. added bonus to this is it self load balances.
+**Uses Api Calls to each wallet. times the time it takes for each call and determines which is on the highest block to make its decision on the best wallet for that user at that specific time. added bonus to this is it self load balances.**
 
 ## Install
 
-1) Download the Zip
+1) [Download the Zip](https://github.com/MSFTserver/BurstAIOWallet.git)
 2) Extract contents to a folder
 3) To quick start just open BurstAIOWallet.exe in the root folder
 4) The block chain will need to sync before you can use the Local Wallet! 
@@ -25,9 +25,7 @@ Uses Api Calls to each wallet. times the time it takes for each call and determi
 
 ## Fast Block-Chain Sync
 
-1) For faster blockchain sync you can downlaod most of it here:
-
-    https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
+1) For faster blockchain sync you can downlaod most of it [HERE](https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0)
 
 2) Extra files from burst_db.zip to burst_db folder in the wallet, then open BurstAIOWallet.exe
 
@@ -39,11 +37,11 @@ Uses Api Calls to each wallet. times the time it takes for each call and determi
 
     X.X.X.X is your host ip the node will be runing from
 
-    nxt.myAddress=X.X.X.X
+    `nxt.myAddress=X.X.X.X`
 
-    nxt.allowedBotHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
+    `nxt.allowedBotHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;`
 
-    nxt.allowedUserHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
+    `nxt.allowedUserHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;`
 
 2) if you want to set up an online wallet add *; to allowedBotHosts and allowedUserHosts fields
 
