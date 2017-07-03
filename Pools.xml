@@ -20,6 +20,11 @@
     <port>8124</port>
     <reward>BURST-LBQ2-XLPT-S2S8-64ZG5</reward>
  </pool>
+    <pool>
+    <address>pool.burstcoin.space</address>
+    <port>8124</port>
+    <reward>BURST-SPAC-EWWF-CRX2-78Z6Z</reward>
+ </pool>
   <pool>
     <address>burstpool.ddns.net</address>
     <port>8124</port>
