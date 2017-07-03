@@ -57,7 +57,7 @@ The world's first HDD-mined cryptocurrency using the new algorithm, Proof-of-Cap
 
 - Proof of Capacity - ASIC Proof / Energy efficient mining
 - Fast sync. with multithread CPU or OpenCL/GPU (optional)
-- "Turing complete" smart contracts, via Automated Transactions (AT) https://ciyam.org/at/at.html
+- "Turing complete" smart contracts, via [Automated Transactions (AT)](https://ciyam.org/at/at.html)
 - Decentralized Crowdfunding and Lottery via AT
 - Asset Exchange and Digital Goods Store
 - Advanced transactions: Escrow and Subscription
