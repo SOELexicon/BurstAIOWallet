@@ -25,9 +25,9 @@ Uses Api Calls to each wallet. times the time it takes for each call and determi
 
 ## Fast Block-Chain Sync
 
-1) For faster blockchain sync you can downlaod most of it here
+1) For faster blockchain sync you can downlaod most of it here:
 
-https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
+    https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
 
 2) Extra files from burst_db.zip to burst_db folder in the wallet, then open BurstAIOWallet.exe
 
@@ -37,13 +37,13 @@ https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
 
 1) to start a local node open the conf folder and edit the nxt properties file:
 
-X.X.X.X is your host ip the node will be runing from
+    X.X.X.X is your host ip the node will be runing from
 
-nxt.myAddress=X.X.X.X
+    nxt.myAddress=X.X.X.X
 
-nxt.allowedBotHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
+    nxt.allowedBotHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
 
-nxt.allowedUserHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
+    nxt.allowedUserHosts=127.0.0.1; localhost; X.X.X.X; 0:0:0:0:0:0:0:1;
 
 2) if you want to set up an online wallet add *; to allowedBotHosts and allowedUserHosts fields
 
