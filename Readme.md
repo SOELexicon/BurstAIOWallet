@@ -24,8 +24,10 @@ Uses Api Calls to each wallet. times the time it takes for each call and determi
 5) by default the fastest Online Wallet will be loaded
 
 ## Fast Block-Chain Sync
-1) For faster blockchain sync you can downlaod most of it here https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
+1) For faster blockchain sync you can downlaod most of it here
+https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0
 2) Extra files from burst_db.zip to burst_db folder in the wallet, then open BurstAIOWallet.exe
+
 ***Note: if burst_db folder doesnt exist in the root simply create one
 
 ## Running only a Node
