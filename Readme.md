@@ -104,21 +104,19 @@ The world's first HDD-mined cryptocurrency using the new algorithm, Proof-of-Cap
 
 For further information, please visit the following pages.
 
-### Home
-https://web.burst-team.us
+### [Burst Home](https://web.burst-team.us)
 
-### Block-Explorer
-http://burstcoin.biz
 
-### Forum
-https://forums.burst-team.us
+### [Block-Explorer](http://burstcoin.biz)
+
+### [Forum](https://forums.burst-team.us)
 
 ### Bitcointalk
-https://bitcointalk.org/index.php?topic=1541310 *(New unmoderated)*
+[*New unmoderated Thread*](https://bitcointalk.org/index.php?topic=1541310)
 
-https://bitcointalk.org/index.php?topic=1323657 *(Alternative moderated)*
+[*Alternative moderated Thread*](https://bitcointalk.org/index.php?topic=1323657)
 
-https://bitcointalk.org/index.php?topic=731923 *(Original unmoderated)*
+[*Original unmoderated Thread*](https://bitcointalk.org/index.php?topic=731923)
 
 ### Related repositories
 [*Original/Forked Burstcoin, ATDebugger, ATAssembler, POCMiner (Proof of concept plotter/miner), etc.*](https://github.com/BurstProject)
@@ -147,5 +145,4 @@ https://bitcointalk.org/index.php?topic=731923 *(Original unmoderated)*
 
 [*Web interface for Plotting and Mining*](https://github.com/mrpsion/burst-mining-system)
 
-### Additional Software
-https://forums.burst-team.us/category/9/burst-software
+### [Additional Software](https://forums.burst-team.us/category/9/burst-software)
