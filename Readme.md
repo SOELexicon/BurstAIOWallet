@@ -13,7 +13,7 @@
 
 ***NOTE: the password manager works by encrypting your passphrase with AES Encryption that's generated from a code that the user can specify. if the user loses this code it will be pretty much impossible to recover your account passphrase.
 
-## Uses Api Calls to each wallet. times the time it takes for each call and determines which is on the highest block to make its decision on the best wallet for that user at that specific time. added bonus to this is it self load balances.
+Uses Api Calls to each wallet. times the time it takes for each call and determines which is on the highest block to make its decision on the best wallet for that user at that specific time. added bonus to this is it self load balances.
 
 ## Install
 
