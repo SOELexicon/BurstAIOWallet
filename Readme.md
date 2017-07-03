@@ -1,3 +1,5 @@
+[*Burst AIO Wallet Master*](https://github.com/SOELexicon)
+
 ## AIO Wallet Features
 
 - Embedded Chromium Browser.
