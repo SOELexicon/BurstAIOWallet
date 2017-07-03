@@ -121,31 +121,31 @@ https://bitcointalk.org/index.php?topic=1323657 *(Alternative moderated)*
 https://bitcointalk.org/index.php?topic=731923 *(Original unmoderated)*
 
 ### Related repositories
-https://github.com/BurstProject *Original/Forked Burstcoin, ATDebugger, ATAssembler, POCMiner (Proof of concept plotter/miner), etc.*
+[*Original/Forked Burstcoin, ATDebugger, ATAssembler, POCMiner (Proof of concept plotter/miner), etc.*](https://github.com/BurstProject)
 
-https://github.com/IceBurst/Burst *Burst for Android*
+[*Burst for Android*](https://github.com/IceBurst/Burst)
 
-https://github.com/SOELexicon *Burst AIO Wallet*
+[*Burst AIO Wallet Master*](https://github.com/SOELexicon)
 
-https://github.com/dawallet/ *Burstcoin Win Client, Android App*
+[*Burstcoin Win Client, Android App*](https://github.com/dawallet/)
 
-https://github.com/Blagodarenko  *Blago's Windows Miner, PlotsChecker, etc.*
+[*Blago's Windows Miner, PlotsChecker, etc.*](https://github.com/Blagodarenko)
 
-https://github.com/de-luxe *GPU assisted jMiner, Faucet Software, Address generator*
+[*GPU assisted jMiner, Faucet Software, Address generator*](https://github.com/de-luxe)
 
-https://github.com/BurstTools/BurstSoftware *Windows Plot Generator for SEE4/AVX2*
+[*Windows Plot Generator for SEE4/AVX2*](https://github.com/BurstTools/BurstSoftware)
 
-https://github.com/bhamon *gpuPlotGenerator, BurstMine (graphical plotter/miner)*
+[*gpuPlotGenerator, BurstMine (graphical plotter/miner)*](https://github.com/bhamon)
 
-https://github.com/kartojal *GUI for Dcct Tools, GUI for gpuPlotGenerator (linux)*
+[*GUI for Dcct Tools, GUI for gpuPlotGenerator (linux)*](https://github.com/kartojal)
 
-https://github.com/Kurairaito *Burst Plot Generator by Kurairaito*
+[*Burst Plot Generator by Kurairaito*](https://github.com/Kurairaito)
 
-https://github.com/Mirkic7 *Improved Linux Burst Plotter / optimizer / miner (linux)*
+[*Improved Linux Burst Plotter / optimizer / miner (linux)*](https://github.com/Mirkic7)
 
-https://github.com/uraymeiviar *C Miner, Pool, Block Explorer, Plot Composer (linux)*
+[*C Miner, Pool, Block Explorer, Plot Composer (linux)*](https://github.com/uraymeiviar)
 
-https://github.com/mrpsion/burst-mining-system *Web interface for Plotting and Mining*
+[*Web interface for Plotting and Mining*](https://github.com/mrpsion/burst-mining-system)
 
 ### Additional Software
 https://forums.burst-team.us/category/9/burst-software
