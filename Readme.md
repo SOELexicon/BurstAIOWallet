@@ -17,7 +17,7 @@
 
 ## Install
 
-1) [Download the Zip](https://github.com/MSFTserver/BurstAIOWallet.git)
+1) [Download the Zip](https://github.com/SOELexicon/BurstAIOWallet.git)
 2) Extract contents to a folder
 3) To quick start just open BurstAIOWallet.exe in the root folder
 4) The block chain will need to sync before you can use the Local Wallet! 
@@ -25,7 +25,7 @@
 
 ## Fast Block-Chain Sync
 
-1) For faster blockchain sync you can downlaod most of it [HERE](https://www.dropbox.com/s/xh3p3i8o9idlt5x/burst_db.zip?dl=0)
+1) For faster blockchain sync you can downlaod most of it [HERE](https://burst.layerwall.com)
 
 2) Extra files from burst_db.zip to burst_db folder in the wallet, then open BurstAIOWallet.exe
 
