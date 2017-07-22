@@ -11,9 +11,19 @@
     <reward>BURST-7NTY-Y2BH-2QZM-HKEH8</reward>
  </pool>
   <pool>
-    <address>poolofd32th.club</address>
+    <address>pool.poolofd32th.club</address>
     <port>8124</port>
     <reward>BURST-E925-FACX-C2X8-49772</reward>
+ </pool>
+  <pool>
+    <address>xen.poolofd32th.club</address>
+    <port>8122</port>
+    <reward>BURST-LBQ2-XLPT-S2S8-64ZG5</reward>
+ </pool>
+    <pool>
+    <address>pool.burstcoin.space</address>
+    <port>8124</port>
+    <reward>BURST-SPAC-EWWF-CRX2-78Z6Z</reward>
  </pool>
   <pool>
     <address>burstpool.ddns.net</address>

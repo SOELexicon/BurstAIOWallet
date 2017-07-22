@@ -1,0 +1,2 @@
+gpuPlotGenerator.exe generate buffer 47834392784324_0_2193822_1024
+@pause

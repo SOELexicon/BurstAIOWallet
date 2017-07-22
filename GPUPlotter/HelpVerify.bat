@@ -1,0 +1,2 @@
+gpuPlotGenerator.exe verify
+@pause
